@@ -1,0 +1,192 @@
+Which of the following is used to dynamically allocate memory?
+A. malloc()
+B. printf()
+C. free()
+D. realloc()
+A
+What is the output of: int a = 5, *p = &a; printf("%d", *p);
+A. 0
+B. 5
+C. Address
+D. Garbage
+B
+What is the output of: printf("%d", sizeof("Hello"));
+A. 5
+B. 6
+C. 4
+D. 7
+B
+Which keyword is used to define a structure?
+A. struct
+B. structure
+C. class
+D. define
+A
+Which function is used to close a file?
+A. fclose()
+B. close()
+C. endfile()
+D. closef()
+A
+What will `int *ptr = NULL;` do?
+A. Cause error
+B. Create a void pointer
+C. Pointer points to 0
+D. Pointer to address 1
+C
+How many bytes does an `int` take on a 32-bit system?
+A. 2
+B. 4
+C. 8
+D. 1
+B
+What is the use of `fseek()`?
+A. Read file
+B. Write file
+C. Move file pointer
+D. Delete file
+C
+What is the result of: 4 << 1;
+A. 2
+B. 4
+C. 8
+D. 16
+C
+Which is not a valid pointer type?
+A. int *
+B. char *
+C. float *
+D. int &
+D
+How are arrays passed in C functions?
+A. By value
+B. By copy
+C. By address
+D. By pointer to pointer
+C
+Which format specifier is used for `double` in printf?
+A. %d
+B. %lf
+C. %c
+D. %f
+D
+What is a segmentation fault?
+A. File error
+B. Memory access violation
+C. Input error
+D. Division by zero
+B
+What does `typedef` do?
+A. Creates a new variable
+B. Defines function
+C. Creates alias for type
+D. None
+C
+Which operator is used to get address of a variable?
+A. *
+B. &
+C. @
+D. #
+B
+What is dangling pointer?
+A. Null pointer
+B. Pointer to freed memory
+C. Unused pointer
+D. Const pointer
+B
+Which of these opens a file for both reading and writing?
+A. "w"
+B. "r"
+C. "r+"
+D. "a+"
+C
+Which loop is most suitable for menu-driven programs?
+A. while
+B. for
+C. do-while
+D. if
+C
+What is the correct way to define a structure?
+A. struct Person { char name[20]; int age; };
+B. structure Person { char name[20]; };
+C. Person { int id; };
+D. struct { id; };
+A
+Which function is used to free allocated memory?
+A. free()
+B. delete()
+C. remove()
+D. destroy()
+A
+What is the size of pointer on a 64-bit system?
+A. 2 bytes
+B. 4 bytes
+C. 6 bytes
+D. 8 bytes
+D
+Which file operation mode overwrites file if exists?
+A. "r"
+B. "a"
+C. "w"
+D. "r+"
+C
+What is pointer to pointer?
+A. Double pointer
+B. Reference pointer
+C. Null pointer
+D. Bit pointer
+A
+What is the output of: printf("%d", 10 & 6);
+A. 2
+B. 4
+C. 6
+D. 0
+A
+Which of the following is a valid declaration?
+A. FILE *fp;
+B. File fp;
+C. file pointer;
+D. file *fp;
+A
+What is the value of `*(*(arr + 1) + 2)` in 2D array?
+A. arr[1][2]
+B. arr[2][1]
+C. arr[2][2]
+D. Invalid
+A
+Which function is used to write to a file?
+A. fwrite()
+B. fprintf()
+C. fputc()
+D. All of the above
+D
+Which header is needed for memory functions?
+A. string.h
+B. stdio.h
+C. stdlib.h
+D. math.h
+C
+What is the value of `~5` in C?
+A. -5
+B. -6
+C. 6
+D. 5
+B
+Can we return a structure from function in C?
+A. No
+B. Yes
+C. Only pointers
+D. Only arrays
+B
+Which function is used to compare memory blocks?
+A. memcmp()
+B. strcmp()
+C. compare()
+D. memcheck()
+A
+What will printf("%p", NULL); output?
+A. 0
+B. NULL
+C. (nil) or 0x0
+D. Error
+C

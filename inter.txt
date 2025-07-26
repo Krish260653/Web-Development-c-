@@ -1,0 +1,198 @@
+What is the output of printf("%d", sizeof(double));
+A. 2
+B. 4
+C. 8
+D. 16
+C
+What is the value of x after: int x = 5; x += 2 * 3;
+A. 11
+B. 10
+C. 7
+D. 6
+A
+Which data type can hold the largest value?
+A. int
+B. float
+C. long int
+D. double
+D
+What does the 'continue' statement do in a loop?
+A. Terminates loop
+B. Skips current iteration
+C. Exits program
+D. None
+B
+Which is a correct way to declare a pointer?
+A. int *ptr;
+B. pointer int ptr;
+C. int ptr*;
+D. *int ptr;
+A
+What will be the result of `5 && 0`?
+A. 5
+B. 1
+C. 0
+D. Error
+C
+How do you allocate memory dynamically in C?
+A. malloc()
+B. alloc()
+C. memory()
+D. pointer()
+A
+Which library function is used to find square root?
+A. pow()
+B. sqrt()
+C. abs()
+D. root()
+B
+Which keyword is used to prevent value modification?
+A. immutable
+B. static
+C. final
+D. const
+D
+Which function compares two strings?
+A. strcmp()
+B. strcomp()
+C. strcompare()
+D. compare()
+A
+Which loop runs at least once regardless of condition?
+A. for
+B. while
+C. do-while
+D. foreach
+C
+What does `&` symbol represent in C?
+A. AND operation
+B. Address-of
+C. Absolute value
+D. Bitmask
+B
+Which file extension is used for C programs?
+A. .cpp
+B. .c
+C. .cs
+D. .py
+B
+Which operator has the highest precedence?
+A. +
+B. &&
+C. *
+D. =
+C
+How do you declare an array of 5 integers?
+A. int arr[5];
+B. array[5] of int;
+C. int arr(5);
+D. int[5] arr;
+A
+Which of these is a valid switch statement?
+A. switch { case 1: break; }
+B. switch(x) { case 1: break; }
+C. switch case(x) { ... }
+D. if switch(x)
+B
+Which is correct about recursion?
+A. It uses loops
+B. Function calls itself
+C. Needs goto
+D. Only used in main()
+B
+Which header file is needed for `strcmp()`?
+A. stdlib.h
+B. conio.h
+C. string.h
+D. strings.h
+C
+Which is used to stop program execution?
+A. exit()
+B. stop()
+C. end()
+D. return(1)
+A
+Which operator is used to access structure members with pointers?
+A. .
+B. :
+C. ->
+D. ::
+C
+Which function reads a string including spaces?
+A. scanf()
+B. gets()
+C. getchar()
+D. input()
+B
+Which of the following is not a loop?
+A. while
+B. repeat
+C. do-while
+D. for
+B
+What does `static` keyword do in C?
+A. Makes variable global
+B. Preserves value after scope
+C. Deletes variable
+D. Makes variable constant
+B
+What will be the output: printf("%d", 'A');
+A. A
+B. 65
+C. 'A'
+D. Error
+B
+Which is used to store a sequence of characters?
+A. int
+B. float
+C. string
+D. char array
+D
+Which keyword is used to define a function?
+A. def
+B. function
+C. void/int/char
+D. method
+C
+What is the value of sizeof(char)?
+A. 0
+B. 1
+C. 2
+D. 4
+B
+Which of the following is not valid in C?
+A. int main()
+B. main()
+C. void main
+D. void main()
+C
+How to declare a constant value?
+A. const int x = 5;
+B. int const = 5;
+C. constant int x = 5;
+D. fixed x = 5;
+A
+What is the result of !(1 && 0)?
+A. 1
+B. 0
+C. true
+D. undefined
+A
+What is the output of `printf("%d", 10 > 5);`?
+A. 10
+B. 5
+C. 1
+D. True
+C
+Which function is used to read single character?
+A. scanf()
+B. getchar()
+C. gets()
+D. readchar()
+B
+What is the default return type of main() in C?
+A. int
+B. void
+C. char
+D. None
+A

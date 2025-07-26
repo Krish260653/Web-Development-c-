@@ -1,0 +1,198 @@
+Which of the following is a correct variable declaration in C?
+A. int 1x;
+B. int x1;
+C. 1int x;
+D. integer x;
+B
+Which of the following is a valid keyword in C?
+A. function
+B. define
+C. main
+D. return
+D
+What will be the output of: printf("%d", 5+2*3);
+A. 21
+B. 11
+C. 17
+D. 11
+D
+Which format specifier is used for `float` values?
+A. %f
+B. %d
+C. %c
+D. %s
+A
+Which symbol is used for single-line comments in C?
+A. //
+B. ##
+C. %%
+D. --
+A
+Which function is used to allocate memory dynamically?
+A. scanf()
+B. malloc()
+C. memory()
+D. alloc()
+B
+What is the size of `int` on a 32-bit system?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. 1 byte
+B
+Which operator is used to get remainder in C?
+A. /
+B. %
+C. //
+D. mod
+B
+What is the correct way to declare a character in C?
+A. char a = "A";
+B. char a = 'A';
+C. char a = A;
+D. char a = `A`;
+B
+How do you start a for loop in C?
+A. for i in range(5):
+B. for(i=0;i<5;i++)
+C. foreach(i=0;i<5;i++)
+D. loop(i<5)
+B
+Which of the following is a logical operator?
+A. &&
+B. ++
+C. +=
+D. **
+A
+Which one is not a data type in C?
+A. int
+B. double
+C. real
+D. char
+C
+Which of these is a valid function definition?
+A. function int main() {}
+B. int main() {}
+C. def main() {}
+D. void int main() {}
+B
+What is the output of: printf("%c", 65);
+A. 65
+B. A
+C. a
+D. Error
+B
+Which is the correct header file for printf and scanf?
+A. stdlib.h
+B. conio.h
+C. stdio.h
+D. math.h
+C
+Which of the following is used to define constants?
+A. #define
+B. const define
+C. const
+D. #const
+A
+What is the result of 10/3 in C?
+A. 3.33
+B. 3
+C. 0
+D. 3.0
+B
+Which escape sequence is used for newline?
+A. \r
+B. \b
+C. \n
+D. \t
+C
+Which statement is used to exit a loop?
+A. continue
+B. stop
+C. end
+D. break
+D
+Which operator is used to compare equality?
+A. =
+B. !=
+C. ==
+D. >=
+C
+Which of the following is a valid `while` loop?
+A. while(i < 5)
+B. while i < 5
+C. while(i => 5)
+D. loop while(i < 5)
+A
+What does the `sizeof` operator return?
+A. size in cm
+B. memory address
+C. size in bytes
+D. number of elements
+C
+How do you declare a string in C?
+A. string name = "Ali";
+B. char name[10];
+C. str name;
+D. name as string;
+B
+What is the correct syntax for `switch` statement?
+A. switch case
+B. switch(value) { ... }
+C. if switch(value)
+D. case switch
+B
+Which function is used to copy strings?
+A. strcpy()
+B. copystr()
+C. memcpy()
+D. strcopy()
+A
+Which loop checks condition before execution?
+A. do-while
+B. while
+C. for
+D. All of these
+B
+Which is used to terminate a C program successfully?
+A. return 1;
+B. exit(0);
+C. return 0;
+D. quit();
+C
+What is the use of `getchar()`?
+A. Prints a character
+B. Takes single character input
+C. Adds two characters
+D. Pauses output
+B
+Which of the following is a preprocessor directive?
+A. include <stdio.h>
+B. #include <stdio.h>
+C. import <stdio.h>
+D. define <stdio.h>
+B
+What will be the output of: printf("%d", 5 == 5);
+A. true
+B. 1
+C. 0
+D. false
+B
+Which function is used to compare strings?
+A. strcmp()
+B. compstr()
+C. strcomp()
+D. compare()
+A
+Which symbol is used to access structure members?
+A. #
+B. ->
+C. ::
+D. .
+D
+Which of the following is used to define a structure?
+A. structure
+B. record
+C. struct
+D. structDef
+C
