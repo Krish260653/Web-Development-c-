@@ -1,2 +1,2 @@
-# Web-Development
+# C Language
 C language quiz game
